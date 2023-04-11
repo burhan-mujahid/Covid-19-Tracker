@@ -1,0 +1,12 @@
+com.example.covid_tracker.app-jetified-window-1.0.0-beta04-0 C:\Users\burha\.gradle\caches\transforms-3\0d16abcdcdeedd7b16c484f9de215efc\transformed\jetified-window-1.0.0-beta04\res
+com.example.covid_tracker.app-jetified-annotation-experimental-1.1.0-1 C:\Users\burha\.gradle\caches\transforms-3\8286a8c73e719543075a2a8314045dc2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.covid_tracker.app-core-1.6.0-2 C:\Users\burha\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\res
+com.example.covid_tracker.app-jetified-window-java-1.0.0-beta04-3 C:\Users\burha\.gradle\caches\transforms-3\f8c60a121c4c8d86cc832180f52524b4\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.covid_tracker.app-debug-4 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\debug\res
+com.example.covid_tracker.app-main-5 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\res
+com.example.covid_tracker.app-pngs-6 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\pngs\debug
+com.example.covid_tracker.app-resValues-7 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\resValues\debug
+com.example.covid_tracker.app-rs-8 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\rs\debug
+com.example.covid_tracker.app-mergeDebugResources-9 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.covid_tracker.app-mergeDebugResources-10 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.covid_tracker.app-merged_res-11 E:\WORK\Flutter Portfolio\Flutter-Covid-19-Tracker-App-Tutorials-main\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\merged_res\debug
