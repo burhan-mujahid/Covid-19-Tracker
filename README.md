@@ -4,9 +4,11 @@ Overview:
 Covid Tracker is a Flutter application that provides real-time statistics on Covid-19 cases across the world. It displays the global and country-wise number of confirmed, recovered, and deaths due to Covid-19. The app fetches data from an external API and uses various third-party packages to display the data and add animations to the UI.
 
 APIs and Data Sources:
-The app uses the disease.sh API to fetch data related to Covid-19 cases. The API provides real-time data on global cases, cases per country, and historical data. The API URLs are defined in the app_url.dart file located in the services/utilities folder.
+The app uses the disease.sh API to fetch data related to Covid-19 cases. The API provides real-time data on global cases, cases per country, and historical data. 
+The API URLs are defined in the app_url.dart file located in the services/utilities folder.
 
 Packages:
+
 The following packages are used in the project:
 
 http: ^0.13.4 - Used to make API requests to fetch data from the disease.sh API.
@@ -14,6 +16,7 @@ animated_text_kit: ^4.2.1 - Used to add animations to the UI such as fading and 
 pie_chart: ^5.1.0 - Used to display the global and country-wise Covid-19 cases in a pie chart format.
 flutter_spinkit: ^5.1.0 - Used to add a loading spinner while fetching data from the API.
 shimmer: ^2.0.0 - Used to add a shimmer effect to the UI while data is being fetched.
+
 Use of Packages:
 
 The http package is used to make GET requests to the disease.sh API and fetch Covid-19 data.
